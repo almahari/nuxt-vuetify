@@ -1,0 +1,8 @@
+{
+  "name": "@invictus.codes/nuxt-vuetify",
+  "version": "0.2.21",
+  "configKey": "vuetify",
+  "compatibility": {
+    "nuxt": "^3.0.0"
+  }
+}
